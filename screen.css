@@ -5,9 +5,9 @@ html {
 
 body {
 	font-size: 100%;
-		font-family: 'Helvetica', Helvetica, Arial, sans-serif;
-	color: #000;
-	background color: 93a1a1;
+		font-family: 'Oswald', sans-serif;
+	color: #FFFFFF;
+	background color: #93a1a1;
 	margin-bottom: 350px;
 }
 
@@ -20,17 +20,20 @@ h1 {
 h2 {
 	font-size: 1em;
 	line-height: 2em;
+	padding-left: .5em
 }
 
 h3 {
 	font-size: 1em;
 	line-height: 2em;
+	padding-left: 1em
 }
 
 p {
 	font-size: 1em;
 	line-height: 2em;
 	margin-bottom: 1.75em;
+	padding-left: 1.5em
 
 a:hover {
 	color: #598f75;
