@@ -17,24 +17,28 @@ body {
 }
 
 h1 {
+{ font-family: ‘Metrophobic’, Arial, serif; font-weight: 400; }
 	font-size: 1.25em;
 	line-height: 2em;
 	margin-bottom: 1em;
 }
 
 h2 {
+h1 { font-family: ‘Metrophobic’, Arial, serif; font-weight: 400; }
 	font-size: 1em;
 	line-height: 2em;
 	padding-left: .5em
 }
 
 h3 {
+h1 { font-family: ‘Metrophobic’, Arial, serif; font-weight: 400; }
 	font-size: 1em;
 	line-height: 2em;
 	padding-left: 1em
 }
 
 p {
+h1 { font-family: ‘Metrophobic’, Arial, serif; font-weight: 300; }
 	font-size: 1em;
 	line-height: 2em;
 	margin-bottom: 1.75em;
