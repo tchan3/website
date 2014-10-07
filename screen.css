@@ -7,39 +7,39 @@ h2,h3,h4 {
   margin-top: 1.5em;
   margin-bottom: .5em;
 }
+font-size: 100%;
+		font-family: 'Oswald', sans-serif;
 }
 
 body {
-	font-size: 100%;
-		font-family: 'Oswald', sans-serif;
 	color: #FFFFFF;
 	background color: #93a1a1;
 	margin-bottom: 350px;
 }
 
 h1 {
-	font-family: ‘Metrophobic’, Arial, serif; font-weight: 400;
+	font-family: ‘Oswald’, sans-serif; font-weight: 400;
 	font-size: 1.25em;
 	line-height: 2em;
 	margin-bottom: 1em;
 }
 
 h2 {
-	font-family: ‘Metrophobic’, Arial, serif; font-weight: 400;
+	font-family: ‘Oswald’, sans-serif; font-weight: 400;
 	font-size: 1em;
 	line-height: 2em;
 	padding-left: .5em
 }
 
 h3 {
-	font-family: ‘Metrophobic’, Arial, serif; font-weight: 400;
+	font-family: ‘Oswald’, sans-serif; font-weight: 400;
 	font-size: 1em;
 	line-height: 2em;
 	padding-left: 1em
 }
 
 p {
-	font-family: ‘Metrophobic’, Arial, serif; font-weight: 300;
+	font-family: ‘Oswald’, sans-serif; font-weight: 300;
 	font-size: 1em;
 	line-height: 2em;
 	margin-bottom: 1.75em;
